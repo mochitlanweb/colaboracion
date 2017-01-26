@@ -1,0 +1,1 @@
+!function(a,b){"object"==typeof module&&"object"==typeof module.exports?module.exports=a.document?b(a,!0):function(a{if(!a.document) {};})}
